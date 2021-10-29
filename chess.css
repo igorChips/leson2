@@ -1,0 +1,35 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: 100%
+}
+.figuri{
+    width:20px;
+    height:20px;
+    border-radius:25%;
+}
+.figuri:hover{
+    zoom:10;
+    transition: 5s;
+
+}
+ol{
+    font-style: italic;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    padding: 25px;
+}
+.chessplayer{
+    border-radius:10%;
+    width: 500px;
+    height: 400px   ;
+}
+.playerspisok{
+    text-weight: bold;
+}
+p{
+    text-weight: bold;
+}
